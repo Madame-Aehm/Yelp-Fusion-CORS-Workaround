@@ -1,0 +1,1 @@
+This repository is the result of trying to help a student to get around the CORS restrictions on Yelp Fusion API by creating a small Express server. It worked, so I'm keeping it for reference. I think this is a proxy? Learning new terms!
